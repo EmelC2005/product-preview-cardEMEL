@@ -5,8 +5,6 @@ Este proyecto es una solución al reto [Product preview card component](https://
 ## 🧱 Estructura del Proyecto
 
 ```
-product-preview-card/
-│
 ├── index.html          # Maquetación principal en HTML
 ├── style.css           # Estilos del componente
 └── images/
